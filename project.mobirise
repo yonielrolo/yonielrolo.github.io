@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-19_0728",
-    "currentPage": "cert.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -629,7 +629,7 @@
             "count": "4",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": false,
             "bgImageRadio": false,
