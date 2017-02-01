@@ -353,6 +353,14 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#565656"
+            },
+            ".card-block P": {
+              "font-size": "17px"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -401,6 +409,10 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
@@ -410,22 +422,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "",
-          "subtitle": "",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#565656"
-            },
-            ".card-block P": {
-              "font-size": "17px"
-            }
-          }
+          "subtitle": ""
         },
         {
           "_tags": [
@@ -818,8 +818,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wynwood-walls-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/60s-poster-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/60s-poster-2000x2800.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -828,28 +828,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yoniel-rolo-mas-maverick-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/yoniel-rolo-mas-maverick-2000x2588.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Adobe Animate",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background-for-stork-animation-2000x437-800x174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/background-for-stork-animation-2000x437.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Final Cut Pro",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maverick-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maverick-2000x2800.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -858,18 +838,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/yoniel-rolo-riddles-with-reese-logo-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/yoniel-rolo-riddles-with-reese-logo-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reese-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reese-2000x2800.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Microsoft Word",
+                "tags": "Adobe Illustrator",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-background-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/political-cartoon-background-2000x2588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/60s-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/60s-2000x2800.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adobe Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/engine-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/engine-2000x2800.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adobe Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mpop-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mpop-2000x2800.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Adobe Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tp-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tp-2000x2800.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1540,6 +1550,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "header2-4r",
           "_params": {
             "imageSize": "42",
@@ -1585,16 +1604,7 @@
           },
           "title": "Biography",
           "text": "My whole life I have been involved with sports. I would always play sports with my family and friends whenever I had the time. I have grown up and learned who I am and about life through sports. My dream would be to become a professional soccer player, and I know that if I keep working hard I can achieve that dream. The odds are against me, but I can defy them.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "16px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
