@@ -1841,7 +1841,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -1855,9 +1855,9 @@
               "color": "#41a85f"
             }
           },
-          "title1": "Pro Soccer Player",
+          "title1": "Professional Soccer Player",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I have been playing soccer since I was 8 years old. I know that with hard work and dedication I can achieve my goal.&nbsp;",
+          "caption1": "I have been playing soccer since I was 8 years old. I know that with hard work and dedication I can achieve my goal.I would like to play in the top leagues of the world and inspire people to play too. I want to have a living in the one thing that I love to do.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"portfolio.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1873,7 +1873,7 @@
           },
           "title2": "Physical Therapists",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Physical therapy allows me to stay connected to physical activity. I love to exercise and respect those people that do it daily. I would like to help fellow athletes do what they love to do most.&nbsp;",
+          "caption2": "Physical therapy allows me to stay connected to physical activity. I love to exercise and respect those people that do it daily. I would like to help fellow athletes do what they love to do most. In addition, I find it interesting to know about the body and know all of the functions. &nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"portfolio.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
