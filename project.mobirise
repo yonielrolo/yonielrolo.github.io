@@ -53,7 +53,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
