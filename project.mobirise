@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-19_0728",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -880,6 +880,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tp-2000x2800-800x1120.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tp-2000x2800.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Microsoft Word",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-2217-2000x2800-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discuss-it-2217-2000x2800.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
