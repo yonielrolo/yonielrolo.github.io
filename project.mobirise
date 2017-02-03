@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-19_0728",
-    "currentPage": "discussit.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -69,7 +69,7 @@
             "showText": false,
             "showButtons": true
           },
-          "title": "Yoniel Rolo&nbsp;",
+          "title": "Yoniel &nbsp;Rolo&nbsp;",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a>  "
         },
@@ -1758,7 +1758,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false
           },
           "media": {
@@ -1784,7 +1784,7 @@
             }
           },
           "title": "Biography",
-          "text": "My whole life I have been involved with sports. I would always play sports with my family and friends whenever I had the time. I have grown up and learned who I am and about life through sports. My dream would be to become a professional soccer player, and I know that if I keep working hard I can achieve that dream. The odds are against me, but I can defy them.&nbsp;",
+          "text": "My whole life I have been involved with sports. I would always play sports with my family and friends whenever I had the time. I have grown up and learned who I am and about life through sports. My dream would be to become a professional soccer player, and I know that if I keep working hard I can achieve that dream. The odds are against me, but I can defy them. Along with this job, I have also been interested in physical thrapy. Since a kid I have wondered how I the body works and how I can improve my body. Physical therapy gives &nbsp;me that insight and that knowledge. In addition, it is another way to make myself a better athlete. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
