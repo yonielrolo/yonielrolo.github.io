@@ -1846,7 +1846,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1899,21 +1899,23 @@
           },
           "title3": "Company Owner",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Company owner's can make a company on anything. I would like to start a physical therapy company and be well known around the world. I would like to run it and control the company and make others happy through it.&nbsp;",
+          "caption3": "Company owner's can make a company on anything. I would like to start a physical therapy company and be well known around the world. I would like to run it and control the company and make others comfortable through it.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"portfolio.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "family": "et-line"
+              "color": "#3d8eb9"
             }
           },
-          "title4": "Unlimited Sites",
+          "title4": "Photographer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Photos capture the special moments that occur in your life. The camera has a power of keeping unforgettable moments and the photographer the person behind it. I would like to be a photographer so that I can capture the special moments that occur during the lives of many, including myself.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
