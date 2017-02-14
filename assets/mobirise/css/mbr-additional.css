@@ -841,6 +841,28 @@ h6,
 
 
 
+
+
+#header3-5r .mbr-section-title,
+#header3-5r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5r H3 {
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 46px;
+  color: #ffffff;
+}
+#header3-5q .mbr-section-title,
+#header3-5q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5q H3 {
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 46px;
+  color: #ffffff;
+}
 #menu-45 .hide-buttons .nav-btn {
   display: none !important;
 }
