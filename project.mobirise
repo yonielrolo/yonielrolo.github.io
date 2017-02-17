@@ -61,9 +61,9 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.2",
-            "overlayColor": "#7e9b9f",
+            "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
