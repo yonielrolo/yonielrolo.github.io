@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -431,6 +432,11 @@ h6,
   font-size: 100px;
   color: #ffffff;
 }
+#content8-6u .mbr-section-title,
+#content8-6u p {
+  text-align: right;
+  color: #fff;
+}
 #header3-6g .mbr-section-title,
 #header3-6g .mbr-section-subtitle {
   text-align: center;
@@ -441,10 +447,12 @@ h6,
   font-size: 36px;
   color: #000000;
 }
-#content8-6u .mbr-section-title,
-#content8-6u p {
-  text-align: right;
-  color: #fff;
+#social-buttons2-75 .mbr-section-title,
+#social-buttons2-75 .btn-social {
+  color: #232323;
+}
+#social-buttons2-75 .mbr-section-title {
+  color: #000000;
 }
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
@@ -475,6 +483,10 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
@@ -538,6 +550,7 @@ h6,
 #menu-1q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 
 
 
@@ -666,6 +679,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -777,6 +795,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -872,6 +895,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -904,6 +932,10 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-45 .hide-buttons .nav-btn {
   display: none !important;
@@ -967,6 +999,7 @@ h6,
 #menu-45 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 
 
 
@@ -1081,6 +1114,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1146,6 +1184,10 @@ h6,
 #menu-45 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
 #contacts5-6a .form-control-label {
@@ -1176,6 +1218,7 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+
 
 
 
@@ -1286,6 +1329,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1396,6 +1444,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1506,6 +1559,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1616,6 +1674,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1745,6 +1808,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+
 
 
 
@@ -1854,4 +1922,8 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#footer1-74 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
