@@ -12,9 +12,9 @@
         "infoColor": "#c0a375",
         "warningColor": "#c0a375",
         "dangerColor": "#c0a375",
-        "titleFont": "Oxygen",
-        "subtitleFont": "Oxygen",
-        "textFont": "Oxygen",
+        "titleFont": "Slabo 27px",
+        "subtitleFont": "Slabo 27px",
+        "textFont": "Slabo 27px",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
@@ -208,7 +208,9 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -251,7 +253,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -262,6 +266,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -283,7 +295,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -405,8 +417,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -449,9 +461,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -465,7 +477,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-7-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -510,8 +522,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -554,9 +566,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -570,7 +582,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -664,7 +676,9 @@
             },
             ".card-block P": {
               "font-size": "17px",
-              "color": "#232323"
+              "color": "#232323",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".card-footer > div": {
               "color": "#2d2d2d",
@@ -758,7 +772,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -769,6 +785,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -790,7 +814,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -929,98 +953,6 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-4d",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Introduction.html\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"gallery.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshopgallery.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustratorgallery.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"discussit.html\">Discuss IT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wordgallery.html\">Microsoft Word</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cert.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Phtotshop</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"extra.html\" aria-expanded=\"false\">Extracurricular</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"recommendations.html\">Recommendations</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"resume.html\">RESUME</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1103,7 +1035,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -1114,6 +1048,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -1266,8 +1208,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1305,14 +1247,14 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-4d",
+          "_anchor": "menu-5s",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1326,7 +1268,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1395,7 +1337,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -1406,6 +1350,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -1427,7 +1379,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1623,7 +1575,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -1634,6 +1588,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -1655,7 +1617,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1777,8 +1739,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1821,9 +1783,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -1837,7 +1799,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1909,7 +1871,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1943,8 +1905,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -1987,9 +1949,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -2003,7 +1965,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2097,7 +2059,7 @@
           },
           "title3": "Agape",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Every other Monday I go to Agape when school ends. We learn about the bible and what message it is trying to show us. We disect the bible and learn more about Jesus and his teachings.&nbsp;",
+          "caption3": "Every other Monday I go to Agape after school. We learn about the bible and what message it is trying to show us. We disect the bible and learn more about Jesus and his teachings.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2140,7 +2102,17 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -2162,7 +2134,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -2173,6 +2147,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -2194,7 +2176,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -2325,8 +2307,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -2369,9 +2351,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -2385,7 +2367,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2481,7 +2463,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -2492,6 +2476,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -2513,7 +2505,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -2617,8 +2609,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -2661,9 +2653,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -2677,7 +2669,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2736,7 +2728,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2830,7 +2822,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/my-fixed-image-2000x2800-800x1120.jpg",
                 "image": "@PROJECT_PATH@/assets/images/my-fixed-image-2000x2800.jpg",
-                "caption": "Up: Broken Picture &nbsp; Down: Fixed Picture (2nd place)&nbsp;",
+                "caption": "Top: Broken Picture &nbsp; Down: Fixed Picture (2nd place)&nbsp;",
                 "active": false
               },
               {
@@ -2854,7 +2846,13 @@
           },
           "_anchor": "gallery1-51",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -2876,7 +2874,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -2887,6 +2887,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -2908,7 +2916,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3039,8 +3047,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -3083,9 +3091,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -3099,7 +3107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3158,7 +3166,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3266,7 +3274,13 @@
           },
           "_anchor": "gallery1-54",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -3288,7 +3302,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -3299,6 +3315,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -3320,7 +3344,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3451,8 +3475,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -3495,9 +3519,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -3511,7 +3535,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3570,7 +3594,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3694,7 +3718,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -3705,6 +3731,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -3726,7 +3760,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -3857,8 +3891,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -3901,9 +3935,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -3917,7 +3951,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3976,7 +4010,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4010,12 +4044,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/political-cartoon-background-2000x2588-800x1035.jpg",
                 "image": "@PROJECT_PATH@/assets/images/political-cartoon-background-2000x2588.jpg",
-                "caption": "Type caption here",
+                "caption": "Background for a Political Cartoon",
                 "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
@@ -4024,7 +4058,13 @@
           },
           "_anchor": "gallery1-5a",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_inherit": "contacts3",
@@ -4046,7 +4086,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -4057,6 +4099,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -4078,7 +4128,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -4209,8 +4259,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "font-family": "'Arimo', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -4253,9 +4303,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Arimo",
-              "url": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "css": "'Arimo', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -4269,7 +4319,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4336,7 +4386,9 @@
               "text-align": "center"
             },
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_anchor": "msg-box5-6h",
@@ -4407,7 +4459,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4438,6 +4490,10 @@
               "font-size": "22px"
             },
             "H5": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
@@ -4582,7 +4638,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -4593,6 +4651,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -4614,7 +4680,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -4745,8 +4811,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-family": "'Slabo 27px', serif"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -4789,9 +4855,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
+              "name": "Slabo 27px",
+              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "css": "'Slabo 27px', serif"
             },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -4805,7 +4871,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-6-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4988,7 +5054,9 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "LI": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "H4": {
               "font-family": "'Slabo 27px', serif",
@@ -4999,6 +5067,14 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "color": "#000000"
+            },
+            ".list-group-text": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
@@ -5020,7 +5096,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/channel-icon-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "active": true,

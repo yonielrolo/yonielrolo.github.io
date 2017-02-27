@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+
+
+
 
 
 
@@ -14,11 +17,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .btn,
 .alert,
@@ -42,7 +45,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -56,7 +59,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .btn {
   border-radius: 1.6em;
@@ -71,22 +74,22 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .mbr-author-desc {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
   font-style: normal;
 }
 .bg-primary {
@@ -453,6 +456,7 @@ h6,
 }
 #social-buttons2-75 .mbr-section-title {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
@@ -475,6 +479,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -483,6 +488,12 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-74 P {
   color: #000000;
@@ -504,7 +515,7 @@ h6,
 #menu-1q .link,
 #menu-1q .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-1q .link {
   font-size: 0.85rem;
@@ -558,6 +569,10 @@ h6,
 
 
 
+
+
+
+
 #menu-5c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -574,7 +589,7 @@ h6,
 #menu-5c .link,
 #menu-5c .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5c .link {
   font-size: 0.85rem;
@@ -644,6 +659,7 @@ h6,
 #testimonials1-4j .card-block P {
   font-size: 17px;
   color: #232323;
+  font-family: 'Slabo 27px', serif;
 }
 #testimonials1-4j .card-footer > div {
   color: #2d2d2d;
@@ -670,6 +686,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -679,10 +696,18 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
 
 
 
@@ -694,68 +719,6 @@ h6,
 }
 #header3-5o H3 {
   color: #ffffff;
-}
-#menu-4d .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-4d .navbar-caption {
-  color: #ffffff;
-}
-#menu-4d .navbar-toggler {
-  color: #000000;
-}
-#menu-4d .close-icon::before,
-#menu-4d .close-icon::after {
-  background-color: #000000;
-}
-#menu-4d .link,
-#menu-4d .dropdown-item {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
-}
-#menu-4d .link {
-  font-size: 0.85rem;
-}
-#menu-4d .dropdown-item,
-#menu-4d .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#menu-4d .link:hover,
-#menu-4d .dropdown-item:hover,
-#menu-4d .link:focus,
-#menu-4d .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-4d .link[aria-expanded="true"],
-#menu-4d .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-4d .nav-dropdown-sm .link:focus,
-#menu-4d .nav-dropdown-sm .link:hover,
-#menu-4d .nav-dropdown-sm .dropdown-item:focus,
-#menu-4d .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-4d .navbar,
-#menu-4d .nav-dropdown-sm,
-#menu-4d .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-4d .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-4d .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-4d .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-4d .bg-color.transparent.opened .link:hover,
-#menu-4d .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-4d .link[aria-expanded="true"],
-#menu-4d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
 }
 #form1-3q .form-control-label {
   color: #ffffff;
@@ -786,6 +749,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -795,6 +759,12 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
@@ -803,66 +773,69 @@ h6,
 
 
 
-#menu-4d .hide-buttons .nav-btn {
+
+
+
+#menu-5s .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-4d .navbar-caption {
+#menu-5s .navbar-caption {
   color: #ffffff;
 }
-#menu-4d .navbar-toggler {
+#menu-5s .navbar-toggler {
   color: #000000;
 }
-#menu-4d .close-icon::before,
-#menu-4d .close-icon::after {
+#menu-5s .close-icon::before,
+#menu-5s .close-icon::after {
   background-color: #000000;
 }
-#menu-4d .link,
-#menu-4d .dropdown-item {
+#menu-5s .link,
+#menu-5s .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
-#menu-4d .link {
+#menu-5s .link {
   font-size: 0.85rem;
 }
-#menu-4d .dropdown-item,
-#menu-4d .nav-dropdown-sm .link {
+#menu-5s .dropdown-item,
+#menu-5s .nav-dropdown-sm .link {
   font-size: 0.921rem;
 }
-#menu-4d .link:hover,
-#menu-4d .dropdown-item:hover,
-#menu-4d .link:focus,
-#menu-4d .dropdown-item:focus {
+#menu-5s .link:hover,
+#menu-5s .dropdown-item:hover,
+#menu-5s .link:focus,
+#menu-5s .dropdown-item:focus {
   color: #c0a375;
 }
-#menu-4d .link[aria-expanded="true"],
-#menu-4d .dropdown-menu {
+#menu-5s .link[aria-expanded="true"],
+#menu-5s .dropdown-menu {
   background: #e6e6e6;
 }
-#menu-4d .nav-dropdown-sm .link:focus,
-#menu-4d .nav-dropdown-sm .link:hover,
-#menu-4d .nav-dropdown-sm .dropdown-item:focus,
-#menu-4d .nav-dropdown-sm .dropdown-item:hover {
+#menu-5s .nav-dropdown-sm .link:focus,
+#menu-5s .nav-dropdown-sm .link:hover,
+#menu-5s .nav-dropdown-sm .dropdown-item:focus,
+#menu-5s .nav-dropdown-sm .dropdown-item:hover {
   background: #f7f7f7!important;
 }
-#menu-4d .navbar,
-#menu-4d .nav-dropdown-sm,
-#menu-4d .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-4d .nav-dropdown-sm .dropdown-menu {
+#menu-5s .navbar,
+#menu-5s .nav-dropdown-sm,
+#menu-5s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5s .nav-dropdown-sm .dropdown-menu {
   background: #ffffff;
 }
-#menu-4d .bg-color.transparent .link {
+#menu-5s .bg-color.transparent .link {
   color: #000000;
   transition: none;
 }
-#menu-4d .bg-color.transparent.opened .link {
+#menu-5s .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-4d .bg-color.transparent.opened .link:hover,
-#menu-4d .bg-color.transparent.opened .link:focus {
+#menu-5s .bg-color.transparent.opened .link:hover,
+#menu-5s .bg-color.transparent.opened .link:focus {
   color: #c0a375;
 }
-#menu-4d .link[aria-expanded="true"],
-#menu-4d .dropdown-item[aria-expanded="true"] {
+#menu-5s .link[aria-expanded="true"],
+#menu-5s .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
 #contacts5-6a p,
@@ -886,6 +859,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -895,10 +869,19 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
 
 
 
@@ -924,6 +907,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -932,6 +916,12 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-74 P {
   color: #000000;
@@ -953,7 +943,7 @@ h6,
 #menu-45 .link,
 #menu-45 .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-45 .link {
   font-size: 0.85rem;
@@ -999,6 +989,11 @@ h6,
 #menu-45 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
+
+
+
+
 
 
 
@@ -1038,7 +1033,7 @@ h6,
 #menu-45 .link,
 #menu-45 .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-45 .link {
   font-size: 0.85rem;
@@ -1084,6 +1079,12 @@ h6,
 #menu-45 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#features6-4v H4 {
+  font-family: 'Slabo 27px', serif;
+}
+#features6-4v P {
+  font-family: 'Slabo 27px', serif;
+}
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
 #contacts5-6a .form-control-label {
@@ -1105,6 +1106,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1114,10 +1116,19 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
 
 
 
@@ -1138,7 +1149,7 @@ h6,
 #menu-45 .link,
 #menu-45 .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-45 .link {
   font-size: 0.85rem;
@@ -1209,6 +1220,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1218,6 +1230,16 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
+
+
+
+
 
 
 
@@ -1239,7 +1261,7 @@ h6,
 #menu-5s .link,
 #menu-5s .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5s .link {
   font-size: 0.85rem;
@@ -1299,6 +1321,9 @@ h6,
 #msg-box8-6z .mbr-section-title {
   font-family: 'Slabo 27px', serif;
 }
+#gallery1-51 .mbr-gallery-item > div > span {
+  font-family: 'Slabo 27px', serif;
+}
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
 #contacts5-6a .form-control-label {
@@ -1320,6 +1345,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1329,10 +1355,20 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
+
 
 
 
@@ -1354,7 +1390,7 @@ h6,
 #menu-5s .link,
 #menu-5s .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5s .link {
   font-size: 0.85rem;
@@ -1414,6 +1450,9 @@ h6,
 #msg-box8-70 .mbr-section-title {
   font-family: 'Slabo 27px', serif;
 }
+#gallery1-54 .mbr-gallery-item > div > span {
+  font-family: 'Slabo 27px', serif;
+}
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
 #contacts5-6a .form-control-label {
@@ -1435,6 +1474,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1444,10 +1484,19 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
 
 
 
@@ -1469,7 +1518,7 @@ h6,
 #menu-5s .link,
 #menu-5s .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5s .link {
   font-size: 0.85rem;
@@ -1550,6 +1599,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1559,10 +1609,20 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
+
 
 
 
@@ -1584,7 +1644,7 @@ h6,
 #menu-59 .link,
 #menu-59 .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-59 .link {
   font-size: 0.85rem;
@@ -1644,6 +1704,9 @@ h6,
 #msg-box8-72 .mbr-section-title {
   font-family: 'Slabo 27px', serif;
 }
+#gallery1-5a .mbr-gallery-item > div > span {
+  font-family: 'Slabo 27px', serif;
+}
 #contacts5-6a p,
 #contacts5-6a .list-group-text,
 #contacts5-6a .form-control-label {
@@ -1665,6 +1728,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1674,10 +1738,21 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
+
+
 
 
 
@@ -1703,7 +1778,7 @@ h6,
 #menu-5c .link,
 #menu-5c .dropdown-item {
   color: #000000;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5c .link {
   font-size: 0.85rem;
@@ -1763,6 +1838,7 @@ h6,
 }
 #msg-box5-6h P {
   font-size: 16px;
+  font-family: 'Slabo 27px', serif;
 }
 #msg-box8-6v .mbr-section-title,
 #msg-box8-6v p {
@@ -1776,6 +1852,9 @@ h6,
   font-size: 22px;
 }
 #features6-5j H5 {
+  font-family: 'Slabo 27px', serif;
+}
+#features6-5j P {
   font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a p,
@@ -1799,6 +1878,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1808,10 +1888,19 @@ h6,
   font-family: 'Slabo 27px', serif;
   color: #000000;
 }
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
+
+
+
 
 
 
@@ -1833,7 +1922,7 @@ h6,
 #menu-5s .link,
 #menu-5s .dropdown-item {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Slabo 27px', serif;
 }
 #menu-5s .link {
   font-size: 0.85rem;
@@ -1914,6 +2003,7 @@ h6,
 }
 #contacts5-6a LI {
   color: #000000;
+  font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a H4 {
   font-family: 'Slabo 27px', serif;
@@ -1922,6 +2012,12 @@ h6,
 #contacts5-6a STRONG {
   font-family: 'Slabo 27px', serif;
   color: #000000;
+}
+#contacts5-6a .list-group-text {
+  font-family: 'Slabo 27px', serif;
+}
+#contacts5-6a P {
+  font-family: 'Slabo 27px', serif;
 }
 #footer1-74 P {
   color: #000000;
