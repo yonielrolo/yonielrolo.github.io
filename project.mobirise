@@ -17,12 +17,13 @@
         "textFont": "Slabo 27px",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 260,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -57,7 +58,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -379,6 +380,13 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_anchor": "footer1-74",
           "_params": {
             "paddingTop": 2,
@@ -392,14 +400,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Yoniel Rolo",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "text": "Copyright (c) 2017 Yoniel Rolo"
         },
         {
           "_styles": {
@@ -2079,6 +2080,16 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "H4": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_anchor": "features6-4v",
           "_params": {
             "paddingTop": "0",
@@ -2194,17 +2205,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "contacts3",
@@ -2829,7 +2830,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": false,
             "showButton": false
@@ -2843,6 +2844,12 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -2938,13 +2945,7 @@
           },
           "_anchor": "gallery1-51",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "contacts3",
@@ -3281,6 +3282,12 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -3366,13 +3373,7 @@
           },
           "_anchor": "gallery1-54",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "contacts3",
@@ -4125,6 +4126,12 @@
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -4150,13 +4157,7 @@
           },
           "_anchor": "gallery1-5a",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "contacts3",
