@@ -427,10 +427,67 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#content8-6u .mbr-section-title,
-#content8-6u p {
-  text-align: right;
-  color: #fff;
+#menu-5c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-5c .navbar-caption {
+  color: #ffffff;
+}
+#menu-5c .navbar-toggler {
+  color: #000000;
+}
+#menu-5c .close-icon::before,
+#menu-5c .close-icon::after {
+  background-color: #000000;
+}
+#menu-5c .link,
+#menu-5c .dropdown-item {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+}
+#menu-5c .link {
+  font-size: 0.85rem;
+}
+#menu-5c .dropdown-item,
+#menu-5c .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-5c .link:hover,
+#menu-5c .dropdown-item:hover,
+#menu-5c .link:focus,
+#menu-5c .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-5c .link[aria-expanded="true"],
+#menu-5c .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-5c .nav-dropdown-sm .link:focus,
+#menu-5c .nav-dropdown-sm .link:hover,
+#menu-5c .nav-dropdown-sm .dropdown-item:focus,
+#menu-5c .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-5c .navbar,
+#menu-5c .nav-dropdown-sm,
+#menu-5c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-5c .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-5c .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-5c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-5c .bg-color.transparent.opened .link:hover,
+#menu-5c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-5c .link[aria-expanded="true"],
+#menu-5c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
 }
 #header1-7a .mbr-section-title {
   font-size: 84px;
@@ -438,6 +495,11 @@ h6,
 #header3-7d .mbr-section-title,
 #header3-7d .mbr-section-subtitle {
   text-align: center;
+}
+#content8-6u .mbr-section-title,
+#content8-6u p {
+  text-align: right;
+  color: #fff;
 }
 #social-buttons2-75 .mbr-section-title,
 #social-buttons2-75 .btn-social {
@@ -488,71 +550,6 @@ h6,
   color: #000000;
   font-family: 'Slabo 27px', serif;
 }
-#menu-1q .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1q .navbar-caption {
-  color: #ffffff;
-}
-#menu-1q .navbar-toggler {
-  color: #000000;
-}
-#menu-1q .close-icon::before,
-#menu-1q .close-icon::after {
-  background-color: #000000;
-}
-#menu-1q .link,
-#menu-1q .dropdown-item {
-  color: #000000;
-  font-family: 'Slabo 27px', serif;
-}
-#menu-1q .link {
-  font-size: 0.85rem;
-}
-#menu-1q .dropdown-item,
-#menu-1q .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#menu-1q .link:hover,
-#menu-1q .dropdown-item:hover,
-#menu-1q .link:focus,
-#menu-1q .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-1q .link[aria-expanded="true"],
-#menu-1q .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-1q .nav-dropdown-sm .link:focus,
-#menu-1q .nav-dropdown-sm .link:hover,
-#menu-1q .nav-dropdown-sm .dropdown-item:focus,
-#menu-1q .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-1q .navbar,
-#menu-1q .nav-dropdown-sm,
-#menu-1q .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1q .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-1q .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-1q .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1q .bg-color.transparent.opened .link:hover,
-#menu-1q .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-1q .link[aria-expanded="true"],
-#menu-1q .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-
-
-
 
 
 
@@ -639,19 +636,6 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #msg-box8-6x .lead P {
-  font-family: 'Slabo 27px', serif;
-}
-#testimonials1-4j .card-footer > small {
-  color: #565656;
-  font-family: 'Slabo 27px', serif;
-}
-#testimonials1-4j .card-block P {
-  font-size: 17px;
-  color: #232323;
-  font-family: 'Slabo 27px', serif;
-}
-#testimonials1-4j .card-footer > div {
-  color: #2d2d2d;
   font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a p,
