@@ -1281,6 +1281,7 @@ h6,
 
 
 
+
 #menu-5s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1358,6 +1359,13 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #gallery1-51 .mbr-gallery-item > div > span {
+  font-family: 'Slabo 27px', serif;
+}
+#msg-box8-7o .mbr-section-title,
+#msg-box8-7o p {
+  color: #fff;
+}
+#msg-box8-7o .mbr-section-title {
   font-family: 'Slabo 27px', serif;
 }
 #contacts5-6a p,
