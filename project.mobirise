@@ -142,7 +142,7 @@
           },
           "_anchor": "header1-7a",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/miami-2000x1250.jpg",
