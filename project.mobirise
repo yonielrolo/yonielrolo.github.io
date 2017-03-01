@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 277,
+    "uniqCompNum": 279,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -259,7 +259,7 @@
             "Theme"
           ],
           "_name": "content8",
-          "_anchor": "content8-6u",
+          "_anchor": "content8-7q",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -271,11 +271,11 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/rT9H5NAUbt4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/FjLkgCfEXfE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": "0",
+            "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": false,
             "showCaption": false
@@ -298,13 +298,13 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-75",
+          "_anchor": "social-buttons2-7p",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12501.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -2982,7 +2982,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12501.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
