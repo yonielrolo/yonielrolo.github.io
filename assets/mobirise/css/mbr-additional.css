@@ -490,9 +490,17 @@ h6,
 }
 #header1-7a .mbr-section-title {
   font-size: 84px;
+  color: #ffffff;
+}
+#header1-7a .mbr-section-lead {
+  color: #ffffff;
 }
 #header3-7d .mbr-section-title,
 #header3-7d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7x .mbr-section-title,
+#header3-7x .mbr-section-subtitle {
   text-align: center;
 }
 #content8-7v .mbr-section-title,
@@ -503,6 +511,10 @@ h6,
 #content8-7v P {
   text-align: center;
   color: #000000;
+}
+#header3-7y .mbr-section-title,
+#header3-7y .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-7w .mbr-section-title,
 #header3-7w .mbr-section-subtitle {
