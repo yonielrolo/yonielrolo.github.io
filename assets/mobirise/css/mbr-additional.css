@@ -1639,6 +1639,12 @@ h6,
 #msg-box8-73 .mbr-section-title {
   font-family: 'Slabo 27px', serif;
 }
+#testimonials1-83 .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials1-83 .card-footer > div {
+  color: #ffffff;
+}
 #contacts1-82 P {
   color: #000000;
   text-align: left;
