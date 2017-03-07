@@ -1562,7 +1562,6 @@ h6,
 }
 
 
-
 #menu-5s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1632,12 +1631,9 @@ h6,
 #header3-68 H3 {
   color: #ffffff;
 }
-#msg-box8-73 .mbr-section-title,
-#msg-box8-73 p {
+#msg-box8-85 .mbr-section-title,
+#msg-box8-85 p {
   color: #fff;
-}
-#msg-box8-73 .mbr-section-title {
-  font-family: 'Slabo 27px', serif;
 }
 #testimonials1-83 .mbr-section-title {
   color: #ffffff;
