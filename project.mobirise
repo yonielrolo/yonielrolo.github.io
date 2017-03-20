@@ -2484,6 +2484,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/yoniel-rolo-timelapse-8-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/yoniel-rolo-timelapse-8-2000x1333.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yoniel-rolo-timelapse-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/yoniel-rolo-timelapse-10-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
