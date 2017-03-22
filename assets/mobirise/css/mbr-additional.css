@@ -494,6 +494,9 @@ h6,
 #header3-7d .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box4-8x H3 {
+  font-size: 48px;
+}
 #header3-7x .mbr-section-title,
 #header3-7x .mbr-section-subtitle {
   text-align: center;
@@ -517,13 +520,6 @@ h6,
 }
 #header3-7w H3 {
   font-size: 19px;
-}
-#social-buttons2-8w .mbr-section-title,
-#social-buttons2-8w .btn-social {
-  color: #232323;
-}
-#social-buttons2-8w .mbr-section-title {
-  font-size: 36px;
 }
 #contacts1-82 P {
   color: #000000;
