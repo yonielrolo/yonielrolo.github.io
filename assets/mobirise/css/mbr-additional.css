@@ -823,6 +823,28 @@ h6,
   color: #000000;
   font-size: 16px;
 }
+#contacts5-8y p,
+#contacts5-8y .list-group-text,
+#contacts5-8y .form-control-label {
+  color: #000;
+}
+#contacts5-8y strong,
+#contacts5-8y h4 {
+  color: #7e9b9f;
+}
+#contacts5-8y form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-8y .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-8y .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-8y LI {
+  color: #000000;
+}
 #footer1-74 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
@@ -1292,6 +1314,7 @@ h6,
 }
 #msg-box8-6p .mbr-section-title {
   font-family: 'Slabo 27px', serif;
+  font-size: 48px;
 }
 #msg-box5-6h H3 {
   font-family: 'Slabo 27px', serif;
@@ -1308,6 +1331,7 @@ h6,
 }
 #msg-box8-6v .mbr-section-title {
   font-family: 'Slabo 27px', serif;
+  font-size: 48px;
 }
 #features6-5j H4 {
   font-family: 'Slabo 27px', serif;
@@ -1582,13 +1606,6 @@ h6,
 }
 #msg-box8-8p .mbr-section-title {
   font-family: 'Slabo 27px', serif;
-}
-#social-buttons2-8v .mbr-section-title,
-#social-buttons2-8v .btn-social {
-  color: #232323;
-}
-#social-buttons2-8v .mbr-section-title {
-  font-size: 36px;
 }
 #contacts1-8l P {
   color: #000000;
