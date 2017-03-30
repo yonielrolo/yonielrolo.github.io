@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 323,
+    "uniqCompNum": 324,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -252,25 +252,19 @@
           "allItem": "All"
         },
         {
-          "_inherit": "msg-box5",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "msg-box4-8x",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-8z",
           "_params": {
-            "imageSize": "49",
-            "paddingTop": "0",
+            "imageSize": 50,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -281,33 +275,33 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/youtube-video-cover-1400x787.jpg",
               "link": "https://www.youtube.com/watch?v=aL2yVdN3-GU",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=aL2yVdN3-GU",
+              "src": "",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 250
+              "size": 0
             }
           },
-          "title": "Premiere Rough Draft Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "title": "Premiere Video Rough Draft<br>",
+          "text": "&lt; Click to watch&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
