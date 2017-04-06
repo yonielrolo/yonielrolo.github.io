@@ -4319,8 +4319,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=os7gGnA_VBU&list=UUc1wXYNDEMaR0R-8F0Per1g&index=1",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-07-55-13.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=CX8yVzdWDu8",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-06-09-03-37.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Imagine Dragon - Adobe Make the Cut",
