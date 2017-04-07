@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 327,
+    "uniqCompNum": 328,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -166,7 +166,7 @@
           },
           "title": "Yoniel Rolo",
           "text": "Welcome...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=gdO7MJixGgg\" data-toolbar=\"-mbrBtnMove\">Premiere Video&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=2rA_A6tam7s\" data-toolbar=\"-mbrBtnMove\">Imagine Dragon Video</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=gdO7MJixGgg\" data-toolbar=\"-mbrBtnMove\">Premiere Video&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=p66_4q1b9vM\" data-toolbar=\"-mbrBtnMove\">Imagine Dragon Video</a> "
         },
         {
           "_styles": {
@@ -4024,7 +4024,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12501.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4266,15 +4266,19 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-90",
+          "_anchor": "msg-box8-93",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
@@ -4287,12 +4291,12 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#000000",
             "showTitle": true,
             "showText": false,
             "showButton": false
           },
-          "title": "Adobe Premiere",
+          "title": "Adobe Premiere<br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -4319,8 +4323,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=2rA_A6tam7s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-07-00-25-25.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=p66_4q1b9vM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-07-08-46-21.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Imagine Dragon - Adobe Make the Cut",

@@ -1530,6 +1530,7 @@ h6,
 }
 
 
+
 #menu-8k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1592,9 +1593,12 @@ h6,
 #menu-8k .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
-#msg-box8-90 .mbr-section-title,
-#msg-box8-90 p {
+#msg-box8-93 .mbr-section-title,
+#msg-box8-93 p {
   color: #fff;
+}
+#msg-box8-93 .mbr-section-title {
+  font-family: 'Slabo 27px', serif;
 }
 #contacts1-8l P {
   color: #000000;
