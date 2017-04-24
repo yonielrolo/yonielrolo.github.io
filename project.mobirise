@@ -2292,7 +2292,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/maverick-2000x2800-800x1120.jpg",
                 "image": "@PROJECT_PATH@/assets/images/maverick-2000x2800.jpg",
-                "caption": "School Logo (chosen as top 4)",
+                "caption": "School Logo (winner)",
                 "active": false
               },
               {
@@ -4024,7 +4024,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12502.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4282,7 +4282,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12501.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12503.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
