@@ -4328,6 +4328,16 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Imagine Dragon - Adobe Make the Cut",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=qdvdga1efDQ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-24-07-44-49.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Imagine Dragon - Adobe Make the Cut",
                 "active": true
               }
             ],
