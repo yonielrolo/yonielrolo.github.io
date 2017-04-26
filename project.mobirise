@@ -2343,6 +2343,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2800-800x1120.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2800.jpg",
                 "caption": "Tattoo Design",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gun-violence-poster-2000x1448-800x579.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-violence-poster-2000x1448.jpg",
+                "caption": "Tattoo Design",
                 "active": true
               }
             ],
@@ -4024,7 +4034,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4282,7 +4292,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12503.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/miami-copy-2000x12501.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
