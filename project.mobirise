@@ -2352,7 +2352,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gun-violence-poster-2000x1448-800x579.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gun-violence-poster-2000x1448.jpg",
-                "caption": "Tattoo Design",
+                "caption": "Stop Gun Violence Poster",
                 "active": true
               }
             ],
