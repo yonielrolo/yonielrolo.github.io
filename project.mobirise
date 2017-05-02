@@ -4222,8 +4222,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=5NlIQWC7uII&feature=youtu.be",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-02-07-44-03.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=JR9TctJJYZ8",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-05-02-09-32-45.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "A Thousand Million Reasons",
